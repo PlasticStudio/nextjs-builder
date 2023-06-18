@@ -41,7 +41,7 @@
   },
   "peerDependencies": {
     "@silverstripe/nextjs-toolkit": "*",
-    "next": "^11.0"
+    "next": "^13.4.6"
   },
   "devDependencies": {
     "@types/glob": "^7.1.4",
