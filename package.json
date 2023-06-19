@@ -37,10 +37,10 @@
     "node-fetch": "^2.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "slash": "^4.0.0"
+    "slash": "^4.0.0",    
+    "@silverstripe/nextjs-toolkit": "https://github.com/PlasticStudio/nextjs-toolkit"
   },
   "peerDependencies": {
-    "@silverstripe/nextjs-toolkit": "https://github.com/PlasticStudio/nextjs-toolkit",
     "next": "^13.4.6"
   },
   "devDependencies": {
